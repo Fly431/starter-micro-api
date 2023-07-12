@@ -1,13 +1,17 @@
 {
-  "name": "starter-micro-api",
+  "name": "new-folder",
   "version": "1.0.0",
-  "description": "Cyclic.sh micro api starter",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "discord.js": "^14.9.0",
+    "discordjs-button-embed-pagination": "^5.0.0",
+    "node-fetch": "^2.6.9"
   }
 }
